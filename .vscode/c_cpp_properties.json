@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/usr/include/x86_64-linux-gnu/**",
+        "/usr/include/**",
+        "/usr/local/include/**",
+        "/usr/include/gazebo-11/**",
+        "/usr/include/eigen3/**",
+        "/usr/include/pcl-1.12/**",
+        "/usr/include/boost/**",
+        "/opt/ros/humble/include/**",
+        "/home/atas/colcon_ws/src/dependencies/ompl/src/**",
+        "/home/atas/colcon_ws/install/ompl/include/ompl-1.5/**",
+        "/home/atas/colcon_ws/install/casadi/include/**",
+        "/home/atas/colcon_ws/install/ACADO/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_control/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_map_server/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_planning/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_navigators/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_utilities/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_waypoint_nav_clients/include/**",
+        "/home/atas/colcon_ws/install/vox_nav_msgs/include/**",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_can_devices/include/**",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_base/common/include/**",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_base/ros/**",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_gazebo_plugins/include/**",
+        "/home/atas/colcon_ws/install/thorvald_msgs/include/**",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_utilities/include",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_gazebo_plugins/include",
+        "/home/atas/colcon_ws/src/Thorvald/thorvald_teleop/include",
+        "/home/atas/openvslam/src/openvslam",
+        "/home/atas/colcon_ws/src/clock_publisher/include/**",
+        "/home/atas/colcon_ws/src/vox_nav/vox_nav_misc/include/**",
+        "/home/atas/colcon_ws/install/fast_gicp/include/**",
+        "/usr/local/cuda-11.7/targets/x86_64-linux/include/**",
+        "/home/atas/colcon_ws/src/rviz_2d_overlay_plugins/rviz_2d_overlay_plugins/include/**",
+        "/home/atas/colcon_ws/install/rviz_2d_overlay_msgs/include/**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
